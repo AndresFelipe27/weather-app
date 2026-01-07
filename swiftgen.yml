@@ -1,0 +1,10 @@
+strings:
+  inputs:
+    - Weather/Weather/Sources/WeatherLocalizedStrings/Resources
+  outputs:
+    - templateName: structured-swift5
+      output: Weather/Weather/Sources/WeatherLocalizedStrings/Generated/Strings+Generated.swift
+      params:
+        enumName: L10n
+        publicAccess: true
+

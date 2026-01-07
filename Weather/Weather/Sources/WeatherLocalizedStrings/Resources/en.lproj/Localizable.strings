@@ -1,0 +1,25 @@
+weather = "Weather";
+searchForACity = "Search for a city...";
+favorites = "Favorites";
+favoritesTitle = "Favorites";
+noFavoritesYet = "No favorites yet";
+markLocationsAsFavoritesFromTheForecastScreen = "Mark locations as favorites from the forecast screen.";
+searchALocation = "Search a location";
+typeACityNameToSeeSuggestionsInstantly = "Type a city name to see suggestions instantly.";
+noResults = "No results";
+tryAnotherCityName = "Try another city name.";
+somethingWentWrong = "Something went wrong";
+pleaseTryAgain = "Please try again.";
+continue = "Continue";
+weatherApp = "Weather App";
+discoverTheWeatherInYourCityAndPlanYourDayCorrectly = "Discover the weather in your city and plan your day correctly";
+forecast = "Forecast";
+checkTheForecastForTheNextDaysInSeconds = "Check the forecast for the next days in seconds";
+next3Days = "Next 3 days";
+next24Hours = "Next 24 hours";
+feelsLike = "Feels like";
+humidity = "Humidity";
+wind = "Wind";
+uv = "UV";
+unknownError = "Unknown error";
+
