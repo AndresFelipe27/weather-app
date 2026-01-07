@@ -1,7 +1,7 @@
 # weather-app
 iOS application that uses the WeatherApi API where you can view the weather of a location, as well as the forecast for the following days.
 
-## Características
+## Characteristics
 
 - **Real-time city search**: Search cities and locations with live suggestions as you type, including proper handling of error and empty states.
 - **Current and extended forecast**: Displays current weather conditions (temperature, feels-like, humidity, wind), along with hourly and daily forecasts.
