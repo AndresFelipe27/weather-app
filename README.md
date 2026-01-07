@@ -95,6 +95,9 @@ The project uses SwiftLint to ensure consistency and adherence to code conventio
 ### Running Tests
 - To run unit tests, go to **Product → Test** or press **Cmd + U**.
 
+<img width="400" alt="Test success" src="https://github.com/user-attachments/assets/1124e50a-7c19-43d7-a3b8-286cf0e83072" />
+
+
 ### Development Tools Setup
 
 This project uses additional tools to ensure code quality and type-safe resources.  
@@ -115,6 +118,17 @@ Used to generate type-safe access to localized strings and other resources.
 
 brew install swiftgen
 
+# Screenshots
 
-
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 30 44" src="https://github.com/user-attachments/assets/a1198349-1fc7-4f5e-9567-19064f7ccd7c" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 30 47" src="https://github.com/user-attachments/assets/a12f5e21-a716-4e8b-9c5f-40ed46bdd56d" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 30 57" src="https://github.com/user-attachments/assets/b891e8d1-ab17-4228-98a9-245a14a6468f" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 31 01" src="https://github.com/user-attachments/assets/a17e797b-2630-4a90-95cb-d83c4a75cae7" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 31 13" src="https://github.com/user-attachments/assets/45d89199-bdbd-4675-bdbc-2cd983d1e62f" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 31 40" src="https://github.com/user-attachments/assets/34b83095-edc9-4048-9865-1c43e4825cd0" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 32 24" src="https://github.com/user-attachments/assets/8fd97c64-5cff-4f5e-94fd-4e9f0a36385a" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 41 05" src="https://github.com/user-attachments/assets/882b2f8f-d789-4d9f-98d2-a424b3673c0b" />
+<img height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 31 21" src="https://github.com/user-attachments/assets/3eacd5aa-3676-4816-b8ac-52a2382bb882" />
+<img height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 31 45" src="https://github.com/user-attachments/assets/a369448d-fb8c-4bce-a048-d48b2ac1f1a2" />
+<img height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-05 at 23 32 29" src="https://github.com/user-attachments/assets/ed0408ee-4cd2-4e4d-bf6f-0270855d03e6" />
 
